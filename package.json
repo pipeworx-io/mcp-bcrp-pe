@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bcrp-pe",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Banco Central de Reserva del Perú (BCRP) statistics series API MCP. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-16232aca8fc43e813200d879d4f6f57d8fcc225e87198434921f277bc077d5a0",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-4e7b12bd32159d97fb3a3972f1f9affba1326b1132880610343dfd5754099499",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
